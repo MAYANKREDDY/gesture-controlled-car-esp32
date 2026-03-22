@@ -21,4 +21,6 @@ https://youtu.be/ekI203TfxyY
 Hand movements are captured using the MPU6050 sensor and processed by the ESP32.  
 The processed data is transmitted wirelessly via ESP-NOW to another ESP32, which controls the motors in real time.
 
-<img width="967" height="446" alt="GESTURE" src="https://github.com/user-attachments/assets/b26547b1-06ee-466b-8dd1-b69d818cf833" />
+
+<img width="967" height="446" alt="Screenshot 2026-03-22 173851" src="https://github.com/user-attachments/assets/f5a93c73-b544-4f4e-97e1-179b3ecca393" />
+
