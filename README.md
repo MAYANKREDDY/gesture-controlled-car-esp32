@@ -15,7 +15,7 @@ Built a real-time gesture-controlled robotic car using dual ESP32 boards and MPU
 - Arduino C++
 
 ## Demo
-(Add your YouTube link here)
+https://youtu.be/ekI203TfxyY
 
 ## How it works
 Hand movements are captured using MPU6050, processed by ESP32, and transmitted wirelessly to control the car in real time.
